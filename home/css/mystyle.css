@@ -1,13 +1,14 @@
 body {
-    background-color: lightblue;
+    background-color: tomato;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0sk1gZUWYPUZm5tPW_BNf0QdBWq_XQqAO5Q&s");
   }
   
   h1 {
-    color: white;
+    color: rgb(221, 224, 0);
     text-align: center;
   }
   
   p {
     font-family: verdana;
-    font-size: 20px;
+    font-size: 25px;
   }
